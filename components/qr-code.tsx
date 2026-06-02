@@ -1,6 +1,6 @@
 "use client";
 import { useRef } from "react";
-import QRCode from "qrcode.react";
+import { QRCodeCanvas } from "qrcode.react";
 import { Download } from "lucide-react";
 
 interface QRCodeCardProps {
@@ -23,7 +23,7 @@ export function QRCodeCard({ url, slug }: QRCodeCardProps) {
   return (
     <div className="flex flex-col items-center gap-3">
       <div ref={ref} className="p-3 bg-white rounded-xl border border-border">
-        <QRCode value={url} size={160} />
+        <QRCodeCanvas value={url} size={160} />
       </div>
       <button
         onClick={download}
