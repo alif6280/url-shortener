@@ -1,0 +1,90 @@
+{
+  "app": {
+    "name": "LinkSnip",
+    "tagline": "Shorten URLs. Track clicks. Free forever."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "settings": "Settings"
+  },
+  "home": {
+    "hero_title": "Shorten any URL",
+    "hero_subtitle": "Free URL shortener with powerful analytics. No account required.",
+    "placeholder": "Paste your long URL here...",
+    "custom_slug": "Custom alias (optional)",
+    "shorten_btn": "Shorten",
+    "shortening": "Shortening...",
+    "your_link": "Your short link",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "qr_code": "QR Code",
+    "analytics": "Analytics",
+    "features_title": "Why LinkSnip?",
+    "feature_fast": "Lightning Fast",
+    "feature_fast_desc": "Redirects in ~30ms with Vercel Edge",
+    "feature_analytics": "Deep Analytics",
+    "feature_analytics_desc": "Track clicks, countries, devices and more",
+    "feature_free": "Always Free",
+    "feature_free_desc": "No credit card. No paid tier. Ever."
+  },
+  "dashboard": {
+    "title": "My Links",
+    "total_links": "Total Links",
+    "total_clicks": "Total Clicks",
+    "active_links": "Active Links",
+    "search": "Search links...",
+    "no_links": "No links yet. Create your first one!",
+    "create_link": "Create Link",
+    "delete": "Delete",
+    "disable": "Disable",
+    "enable": "Enable",
+    "copy_link": "Copy",
+    "view_analytics": "Analytics",
+    "clicks": "clicks",
+    "active": "Active",
+    "disabled": "Disabled",
+    "expired": "Expired"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "total_clicks": "Total Clicks",
+    "unique_visitors": "Unique Visitors",
+    "top_country": "Top Country",
+    "top_device": "Top Device",
+    "clicks_over_time": "Clicks Over Time",
+    "by_country": "By Country",
+    "by_device": "By Device",
+    "by_browser": "By Browser",
+    "by_referrer": "Referrer Sources",
+    "last_7_days": "Last 7 days",
+    "last_30_days": "Last 30 days",
+    "all_time": "All time",
+    "no_data": "No data yet"
+  },
+  "auth": {
+    "login_title": "Welcome back",
+    "login_subtitle": "Sign in to manage your links",
+    "register_title": "Create account",
+    "register_subtitle": "Start shortening links for free",
+    "google": "Continue with Google",
+    "email": "Continue with Email",
+    "email_placeholder": "Enter your email",
+    "send_link": "Send Magic Link",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "sign_up": "Sign up",
+    "sign_in": "Sign in"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success!"
+  }
+}

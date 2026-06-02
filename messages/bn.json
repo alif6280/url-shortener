@@ -1,0 +1,90 @@
+{
+  "app": {
+    "name": "লিংকস্নিপ",
+    "tagline": "URL ছোট করুন। ক্লিক ট্র্যাক করুন। সম্পূর্ণ বিনামূল্যে।"
+  },
+  "nav": {
+    "dashboard": "ড্যাশবোর্ড",
+    "login": "লগইন",
+    "register": "নিবন্ধন",
+    "logout": "লগআউট",
+    "settings": "সেটিংস"
+  },
+  "home": {
+    "hero_title": "যেকোনো URL ছোট করুন",
+    "hero_subtitle": "বিনামূল্যে URL শর্টেনার। অ্যাকাউন্ট ছাড়াই ব্যবহার করুন।",
+    "placeholder": "এখানে আপনার লম্বা URL পেস্ট করুন...",
+    "custom_slug": "কাস্টম নাম (ঐচ্ছিক)",
+    "shorten_btn": "ছোট করুন",
+    "shortening": "প্রক্রিয়া হচ্ছে...",
+    "your_link": "আপনার শর্ট লিংক",
+    "copy": "কপি",
+    "copied": "কপি হয়েছে!",
+    "qr_code": "QR কোড",
+    "analytics": "বিশ্লেষণ",
+    "features_title": "কেন লিংকস্নিপ?",
+    "feature_fast": "অতি দ্রুত",
+    "feature_fast_desc": "Vercel Edge-এ ~৩০ms-এ রিডাইরেক্ট",
+    "feature_analytics": "গভীর বিশ্লেষণ",
+    "feature_analytics_desc": "ক্লিক, দেশ, ডিভাইস সব ট্র্যাক করুন",
+    "feature_free": "সবসময় বিনামূল্যে",
+    "feature_free_desc": "কোনো ক্রেডিট কার্ড নেই। কোনো পেইড প্ল্যান নেই।"
+  },
+  "dashboard": {
+    "title": "আমার লিংকসমূহ",
+    "total_links": "মোট লিংক",
+    "total_clicks": "মোট ক্লিক",
+    "active_links": "সক্রিয় লিংক",
+    "search": "লিংক খুঁজুন...",
+    "no_links": "কোনো লিংক নেই। প্রথম লিংক তৈরি করুন!",
+    "create_link": "লিংক তৈরি করুন",
+    "delete": "মুছুন",
+    "disable": "বন্ধ করুন",
+    "enable": "চালু করুন",
+    "copy_link": "কপি",
+    "view_analytics": "বিশ্লেষণ",
+    "clicks": "ক্লিক",
+    "active": "সক্রিয়",
+    "disabled": "বন্ধ",
+    "expired": "মেয়াদ শেষ"
+  },
+  "analytics": {
+    "title": "বিশ্লেষণ",
+    "total_clicks": "মোট ক্লিক",
+    "unique_visitors": "অনন্য দর্শনার্থী",
+    "top_country": "শীর্ষ দেশ",
+    "top_device": "শীর্ষ ডিভাইস",
+    "clicks_over_time": "সময়ের সাথে ক্লিক",
+    "by_country": "দেশ অনুযায়ী",
+    "by_device": "ডিভাইস অনুযায়ী",
+    "by_browser": "ব্রাউজার অনুযায়ী",
+    "by_referrer": "রেফারার উৎস",
+    "last_7_days": "গত ৭ দিন",
+    "last_30_days": "গত ৩০ দিন",
+    "all_time": "সব সময়",
+    "no_data": "এখনো কোনো তথ্য নেই"
+  },
+  "auth": {
+    "login_title": "স্বাগতম",
+    "login_subtitle": "আপনার লিংক পরিচালনা করতে সাইন ইন করুন",
+    "register_title": "অ্যাকাউন্ট তৈরি করুন",
+    "register_subtitle": "বিনামূল্যে লিংক ছোট করা শুরু করুন",
+    "google": "Google দিয়ে চালিয়ে যান",
+    "email": "ইমেইল দিয়ে চালিয়ে যান",
+    "email_placeholder": "আপনার ইমেইল লিখুন",
+    "send_link": "ম্যাজিক লিংক পাঠান",
+    "no_account": "অ্যাকাউন্ট নেই?",
+    "have_account": "ইতিমধ্যে অ্যাকাউন্ট আছে?",
+    "sign_up": "নিবন্ধন করুন",
+    "sign_in": "সাইন ইন করুন"
+  },
+  "common": {
+    "save": "সংরক্ষণ করুন",
+    "cancel": "বাতিল",
+    "delete": "মুছুন",
+    "confirm": "নিশ্চিত করুন",
+    "loading": "লোড হচ্ছে...",
+    "error": "কিছু একটা ভুল হয়েছে",
+    "success": "সফল!"
+  }
+}
