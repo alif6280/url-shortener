@@ -22,7 +22,7 @@ export default async function HomePage() {
             </div>
             LinkSnip
           </div>
-          <p>Built by <span className="font-medium text-foreground">MD. Montasir Monir Alif</span> · Next.js · Neon</p>
+          <p>Built by <span className="font-medium text-foreground">MD. Montasir Monir Alif</span> </p>
           <div className="flex gap-4">
             <Link href="/login" className="hover:text-foreground">Login</Link>
             <Link href="/register" className="hover:text-foreground">Register</Link>
